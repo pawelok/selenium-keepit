@@ -1,0 +1,12 @@
+po/keepit/LoginPage.java
+ po.keepit.LoginPage
+po/keepit/MainPage.java
+ po.keepit.MainPage
+helpers/keepit/LoginPageHelper.java
+ helpers.keepit.LoginPageHelper
+helpers/keepit/MainPageHelper.java
+ helpers.keepit.MainPageHelper
+po/microsoft/MicrosoftPage.java
+ po.microsoft.MicrosoftPage
+helpers/keepit/microsoft/MicrosoftPageHelper.java
+ helpers.keepit.microsoft.MicrosoftPageHelper
